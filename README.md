@@ -128,3 +128,37 @@ Los resultados obtenidos evidencian el cumplimiento de los requisitos funcionale
 * Implementar árboles balanceados (por ejemplo, AVL) para optimizar el rendimiento en casos de inserciones desbalanceadas.
 * Incorporar validaciones de entrada para mejorar la robustez del sistema.
 * Considerar el desarrollo de una interfaz gráfica para futuras versiones.
+
+## 11. Capturas
+
+### Inserción
+
+![image alt](https://github.com/michaelrosillo787-alt/arbol-bst-empresa-cpp/blob/64dac101e49e2a5e142064e3f779d44936505751/1.png)
+
+### Búsqueda 
+
+![image alt](https://github.com/michaelrosillo787-alt/arbol-bst-empresa-cpp/blob/64dac101e49e2a5e142064e3f779d44936505751/2.png)
+
+### Mostrar Raíz 
+
+![Raíz](https://github.com/michaelrosillo787-alt/arbol-bst-empresa-cpp/blob/64dac101e49e2a5e142064e3f779d44936505751/3.png)
+
+### Recorrido In-Order
+
+![In-Order](https://github.com/michaelrosillo787-alt/arbol-bst-empresa-cpp/blob/64dac101e49e2a5e142064e3f779d44936505751/4.png)
+
+### Recorrido Pre-Order
+
+![Pre-Order](https://github.com/michaelrosillo787-alt/arbol-bst-empresa-cpp/blob/64dac101e49e2a5e142064e3f779d44936505751/5.png)
+
+### Recorrido Post-Order
+  
+  ![Post-Order](https://github.com/michaelrosillo787-alt/arbol-bst-empresa-cpp/blob/64dac101e49e2a5e142064e3f779d44936505751/6.png)
+
+### Mostrar altura
+  
+![Altura](https://github.com/michaelrosillo787-alt/arbol-bst-empresa-cpp/blob/64dac101e49e2a5e142064e3f779d44936505751/7.png)
+
+### Mostrar Hojas
+
+![Hojas](https://github.com/michaelrosillo787-alt/arbol-bst-empresa-cpp/blob/64dac101e49e2a5e142064e3f779d44936505751/8.png)
